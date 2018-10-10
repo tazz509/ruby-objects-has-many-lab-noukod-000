@@ -22,4 +22,4 @@ class Artist
     Song.all.count
   end
 end
-end
+
